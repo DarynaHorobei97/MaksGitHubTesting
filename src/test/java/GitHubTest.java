@@ -22,3 +22,6 @@ public class GitHubTest extends  BaseTest{
         createdIssuePage.closeIssue();
     }
 }
+//it's a good idea to divide your test for several. 1 - a new issue creation, 2 - an issue edition
+//Pls send a pull request for review because I cannot leave comments
+//Add intermediate assertions into your methods
